@@ -8,6 +8,7 @@ from core.LuaFormat import lua_format
 
 EXAMPLE_PATH = './lua-example'
 CHECK_LIST = [
+    'alignment',
     'operator',
     'separator',
     'negative',
